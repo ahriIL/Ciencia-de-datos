@@ -384,3 +384,13 @@ Recomendaciones de contenido (como TikTok leyendo tu mente, básicamente).
 ### Deportes
 
 Análisis de rendimiento de jugadores y estrategias de juego.
+
+---
+
+## Conclusión
+
+En esta actividad pude practicar cosas básicas de matemáticas y lógica que ayudan mucho a entender mejor cómo resolver problemas paso a paso. También me sirvió para ver cómo se relaciona todo esto con la ciencia de datos, especialmente en cómo se organizan y analizan los datos.
+
+Además, investigar sobre Big Data me ayudó a entender que los datos no solo son números, sino información que se puede usar en muchas áreas como salud, redes sociales o incluso deportes. También vi que existen herramientas específicas que facilitan trabajar con grandes cantidades de datos.
+
+En general, siento que esta actividad me ayudó a pensar de forma más lógica y ordenada, y a entender mejor cómo aplicar estos conceptos en situaciones reales.
