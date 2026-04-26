@@ -391,6 +391,8 @@ En esta sección de la actividad, crearás y evaluarás un modelo de regresión 
 
 ### Conclusión final
 
-El modelo de regresión lineal obtuvo un R² de 0.58, lo que significa que logra explicar más o menos la mitad de la variación en el precio de los vehículos. No totalmente preciso, ya que hay otros factores que influyen en el precio y no se están considerando.
+El modelo de regresión lineal obtuvo un R² de 0.58, lo que significa que logra explicar más o menos la mitad de la variación en el precio de los vehículos. No totalmente preciso.
+
 Por otro lado, el modelo de regresión logística alcanzó una precisión del 80% al predecir la sobrevivencia, lo cual indica un mejor desempeño en comparación con el modelo lineal.
+
 En general, el modelo logístico resultó más efectivo en su tarea, mientras que el modelo lineal funciona, pero podría mejorar si se incluyen más variables.
